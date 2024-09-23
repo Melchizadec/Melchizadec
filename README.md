@@ -2,8 +2,8 @@
 - 👀 I’m interested in being a blockchain developer
 - 🌱 I’m currently learning introduction to blockchain tech
 - 💞️ I’m looking to collaborate on blockchain developments
-- 📫 How to reach me will be to drop me a mmessage in my dm
-- 😄 Pronouns: he, him and his
+- 📫 How to reach me will be to drop me a message in my dm
+- 😄 Pronouns: he, his and him
 - ⚡ Fun fact: i can be weird
 
 <!---
